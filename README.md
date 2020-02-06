@@ -1,3 +1,3 @@
 # Electrical Session 01
-Arduino basics
-Functions : pinMode, digitalWrite, delay
+ Arduino basics;
+  Functions : pinMode, digitalWrite, delay;
