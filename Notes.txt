@@ -1,0 +1,2 @@
+Max Supply for Arduino = 20
+Recommended Supply = 6-12
