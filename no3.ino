@@ -3,7 +3,7 @@
 
 //setup (fel void setup() )
     //Baud rate >> sor3et na2l 2el data >> 9600
-// Serial.begin(9600) >> 7addt 2el baud rate
+   // Serial.begin(9600) >> 7addt 2el baud rate
 
 //for printing (in loop())
     //Serial.print("strinh") or Serial.print(int) >> 2el values gamb ba3d
@@ -19,3 +19,9 @@
 //nel library hat7ot library ubing #include <NewPing.h> foo2 5ales
 //hat3arraf var men noo3 NewPing 
 //NewPing sonar(TRIGGER_PIN, ECHO_PIN,MAX_DIST)
+
+void setup() {
+}
+
+void loop() {
+}
