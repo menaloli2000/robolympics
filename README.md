@@ -1,2 +1,3 @@
-# robolympics
-Arduino src for Robolympics 3.0
+# Electrical Session 01
+Arduino basics
+Functions : pinMode, digitalWrite, delay
